@@ -9,6 +9,7 @@ https://twitter.com/javascriptbits/status/795025845752467456
 
 - temporal dead zone in ES6 with let and const
 
+- sharing variable names with function names in ES6
 
 ### References
 - https://tc39.github.io/ecma262/
