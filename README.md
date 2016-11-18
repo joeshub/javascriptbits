@@ -11,6 +11,8 @@ https://twitter.com/javascriptbits/status/795025845752467456
 
 - sharing variable names with function names in ES6
 
+- const vs. let and var in ES6
+
 ### References
 - https://tc39.github.io/ecma262/
 - http://jsrocks.org/2015/01/temporal-dead-zone-tdz-demystified/
