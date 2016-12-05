@@ -17,6 +17,8 @@ https://twitter.com/javascriptbits/status/795025845752467456
 
 - function rest parameters in ES6
 
+- arrow functions and lexical this
+
 ### References
 - https://tc39.github.io/ecma262/
 - http://jsrocks.org/2015/01/temporal-dead-zone-tdz-demystified/
