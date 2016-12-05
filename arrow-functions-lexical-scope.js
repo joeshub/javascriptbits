@@ -19,7 +19,7 @@ Log.bind({format:'OMG'})('Hi') // OMG Hi (Can change this on the fly)
 const LogArrow = (msg) => {
   console.log(this.format, msg)
 }
-LogArrow('Hello Arrow') // Message: Hellow Arrow (no binding needed)
+LogArrow('Hello Arrow') // Message: Hello Arrow (no binding needed)
 
 // Note that even if you pass in 'this' arrow functions still use a lexical this
 LogArrow.bind({format:'OMG'})('Hi') // Message: Hi (this will not be used when using arrow functions, will still get lexical this from line 4 above)
