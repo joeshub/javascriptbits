@@ -1,6 +1,8 @@
 # javascriptbits
 ## Learn ES6 and JavaScript bit by bit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joeshub/javascriptbits.svg)](https://greenkeeper.io/)
+
 ### Examples
 - block scoping with let
 https://twitter.com/javascriptbits/status/795025845752467456
